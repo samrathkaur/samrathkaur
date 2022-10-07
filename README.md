@@ -1,3 +1,6 @@
+<h2 align="center">Samrath Kaur</h2>
+
+
 <h3 align="center">Front-end Developer | UI/UX Designer</h3>
 
 <h3 align="left">Connect with me:</h3>
