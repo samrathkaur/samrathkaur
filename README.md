@@ -24,5 +24,7 @@
  -->
  
  <br><br> <br><br> 
+ <center>
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrathkaur)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrathkaur)](https://github.com/anuraghazra/github-readme-stats)
+</center
