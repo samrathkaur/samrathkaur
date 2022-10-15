@@ -22,3 +22,6 @@
   <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
  -->
+ 
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrathkaur)](https://github.com/anuraghazra/github-readme-stats)
